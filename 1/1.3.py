@@ -1,4 +1,4 @@
-#find the area and the perimeter of the squar
+#find the area and the perimeter of the square
 
 def area_of_square(side_length):
     return side_length  * side_length
