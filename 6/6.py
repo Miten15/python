@@ -19,5 +19,5 @@ symmetric = set1.symmetric_difference(set2)
 print("Symmetric Diff : ", symmetric)    #gives numbers which are not present in both sets
 
 #clearing a set
-c = set1.clear()
+c = set1.clear()                        #clears all elements from the given set
 print("hahahha can u see it??",set1)
