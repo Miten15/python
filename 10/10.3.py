@@ -2,7 +2,8 @@
 
 import numpy  as np
 def rand():
-    return np.random.randint(9, 31)
+ return np.random.randint(9, 31)
 
 for i in range(5):
     print(rand())
+    
